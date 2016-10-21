@@ -12,7 +12,6 @@ deploy:
    provider: cloudfoundry
    username: hmnafie@free.fr
    password: Hicham55@                                                                                                                                                                                                                                         
-    secure: RYHYLtUKeUkGSbL2d1sz+rKXG3Pbrr/S1mi2rewVWTFRbU/m5qr5kkEbdQ/ILjAfVaUwb2g1MJ76HBY8snI7uSx9RvyT9LLh5U8ByhwMc1YbK1ux696fyP4xp8YfJVMoIdscKHGnq2/B9+ud6T3WCtc+heDU7Gj3L5sJFvQR3Dk=
    api: https://api.run.pivotal.io
    organization: pivotaledu
    space: production
